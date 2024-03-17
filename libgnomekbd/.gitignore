@@ -1,0 +1,10 @@
+.deps
+desktop_gnome_peripherals_keyboard_xkb.schemas
+*.la
+.libs
+*.lo
+Makefile
+Makefile.in
+*marshal.c
+*marshal.h
+*.o
